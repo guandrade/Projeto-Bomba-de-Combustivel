@@ -15,5 +15,3 @@ Entender a solução
 -Sistema de levantamento e armazenamento de dados sobre o consumo, tanto geral como por máquina. 
 
 -Concomitante ao sistema desenvolve uma controladora para mensurar e registrar a vazão de combustível.
-
-
